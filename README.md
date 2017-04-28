@@ -4,5 +4,5 @@ The problem was solved as a part of programming assignment in Course CSE 460 - S
 
 # File Descriptons
 There are four files in the project:
-Podcast.java: Contains the main function. It reads published and subscribed events from a text file and calls instances of publisher and subscriber classes accordingly.
+\n Podcast.java: Contains the main function. It reads published and subscribed events from a text file and calls instances of publisher and subscriber classes accordingly.
 
