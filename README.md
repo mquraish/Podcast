@@ -4,10 +4,10 @@ The problem was solved as a part of programming assignment in Course CSE 460 - S
 
 # File Descriptons
 There are four files in the project:  
-  
+  
 Podcast.java: Contains the main function. It reads published and subscribed events from a text file and calls instances of publisher and subscriber classes accordingly.
-  
-Publisher.java: Published the events to server  
+  
+Publisher.java: Published the events to server  
   
 Subscriber.java: Adds or removes new subscriber to Podcast and prints the status.  
   
